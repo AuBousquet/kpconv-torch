@@ -4,13 +4,16 @@
 > **Document version :** {{ version }}
 > **Last update :** {{ date_update }}
 
-## Installation
+## Utilisation de kpconv-torch
 
 ```{toctree}
 ---
 caption: Sommaire
 maxdepth: 1
 ---
+principles
+install
+cli
 processing_chain
 preprocessing
 object_classification_guide
